@@ -1,0 +1,4 @@
+user_list = [
+{'first_name': 'Gloria', 'last_name': 'Armstrong', 'email': 'garmstrong0@harvard.edu', 'gender': 'Female', 'balance': '8.82'}
+{'first_name': 'Amanda', 'last_name': 'Scott', 'email': 'ascott1@skyrock.com', 'gender': 'Female', 'balance': '9.5'}
+]
